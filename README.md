@@ -3,5 +3,5 @@
 </p>
 
 <h1 align="center">
-	Studying Design
+	Hi, I'm Yasmin and I'm a UX and UI Design Student
 </h1>
